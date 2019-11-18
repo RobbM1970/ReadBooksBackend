@@ -1,0 +1,12 @@
+
+{
+
+    "autoIncrement": false,
+
+    "read": {
+
+      "access": "anonymous"
+
+    }
+
+  }
