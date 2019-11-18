@@ -1,8 +1,3 @@
-Raw
-Blame
-History
-
-
 var table = module.exports = require('azure-mobile-apps').table();
 
 
