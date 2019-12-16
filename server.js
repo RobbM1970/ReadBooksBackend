@@ -5,6 +5,7 @@ var mobileApp = require('azure-mobile-apps')(); // Create an instance of a Mobil
 
 mobileApp.tables.add('Customer'); 
 mobileApp.tables.add('Users'); 
+mobileApp.tables.add('Note'); 
 mobileApp.tables.add('ViewModelAssessmentHeader');
 mobileApp.tables.add('ViewModelStatusAZ'); 
 
