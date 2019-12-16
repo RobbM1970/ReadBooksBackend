@@ -13,7 +13,7 @@ mobileApp.tables.add('PackageHeader'); // Create a table for 'Book' with default
 mobileApp.tables.add('PhotoModels'); // Create a table for 'Book' with default settings
 mobileApp.tables.add('Pics'); // Create a table for 'Book' with default settings
 mobileApp.tables.add('Users'); // Create a table for 'Book' with default settings
-mobileApp.views.add('Users'); // Create a table for 'Book' with default settings
+mobileApp.views.add('ViewModelAssessmentHeader'); // Create a table for 'Book' with default settings
 
 app.use(mobileApp);
 app.listen(process.env.PORT || 3000);
