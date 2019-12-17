@@ -8,6 +8,7 @@ mobileApp.tables.add('Users');
 mobileApp.tables.add('Note'); 
 mobileApp.tables.add('Menuing'); 
 mobileApp.tables.add('Assessment'); 
+mobileApp.tables.add('PackageHeader'); 
 mobileApp.tables.add('ViewModelAssessmentHeader');
 mobileApp.tables.add('ViewModelStatusAZ'); 
 
