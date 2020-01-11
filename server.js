@@ -12,6 +12,7 @@ mobileApp.tables.add('PackageHeader');
 mobileApp.tables.add('PackageDetail'); 
 mobileApp.tables.add('ViewModelAssessmentHeader');
 mobileApp.tables.add('ViewModelStatusAZ'); 
+mobileApp.tables.add('ViewModelReviewAZ'); 
 mobileApp.tables.add('Lookups'); 
 
 app.use(mobileApp);
