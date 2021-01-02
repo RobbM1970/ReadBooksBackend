@@ -15,6 +15,7 @@ mobileApp.tables.add('ViewModelAssessmentHeader');
 mobileApp.tables.add('ViewModelStatusAZ'); 
 mobileApp.tables.add('ViewModelReviewAZ'); 
 mobileApp.tables.add('Lookups'); 
+mobileApp.tables.add('Client'); 
 
 app.use(mobileApp);
 app.listen(process.env.PORT || 3000);
