@@ -14,7 +14,7 @@ mobileApp.tables.add('PackageDetail');
 mobileApp.tables.add('ViewModelAssessmentHeader');
 mobileApp.tables.add('ViewModelStatusAZ'); 
 mobileApp.tables.add('ViewModelReviewAZ'); 
-mobileApp.tables.add('ViewModelPriority); 
+mobileApp.tables.add('ViewModelPriority'); 
 mobileApp.tables.add('Lookups'); 
 mobileApp.tables.add('Client'); 
 
