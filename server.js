@@ -17,6 +17,7 @@ mobileApp.tables.add('ViewModelReviewAZ');
 mobileApp.tables.add('ViewModelPriority'); 
 mobileApp.tables.add('Lookups'); 
 mobileApp.tables.add('Client'); 
+mobileApp.tables.add('JaaxenMedia'); 
 
 app.use(mobileApp);
 app.listen(process.env.PORT || 3000);
